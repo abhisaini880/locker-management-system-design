@@ -1,5 +1,3 @@
-# Open for extend and close for update
-
 from enum import Enum
 import random, string
 
